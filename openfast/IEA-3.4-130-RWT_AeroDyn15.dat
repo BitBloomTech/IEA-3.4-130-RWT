@@ -114,5 +114,8 @@ True                   SumPrint    - Generate a summary file listing input optio
 "RtAeroCp"
 "RtAeroCq"
 "RtAeroCt"
+"B1N6Alpha"
+"B2N6Alpha"
+"B3N6Alpha"
 END of input file (the word "END" must appear in the first 3 columns of this last OutList line)
 ---------------------------------------------------------------------------------------
